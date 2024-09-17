@@ -6,6 +6,9 @@ This project is a **HouseHome** that allows users to explore and discover apartm
 
 ## Table of Contents
 
+- [HouseHome](#househome)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
     - [Features](#features)
     - [Installation](#installation)
     - [Usage](#usage)
